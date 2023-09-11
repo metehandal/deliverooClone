@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Acai",
+    "count": 7
+  },
+  {
+    "name": "African",
+    "count": 9
+  },
+  {
+    "name": "Alcohol",
+    "count": 330
+  },
+  {
+    "name": "American",
+    "count": 201
+  },
+  {
+    "name": "BBQ",
+    "count": 73
+  },
+  {
+    "name": "Brunch",
+    "count": 75
+  },
+  {
+    "name": "Burger",
+    "count": 119
+  },
+  {
+    "name": "Pancakes",
+    "count": 75
+  },
+  {
+    "name": "Pizza",
+    "count": 119
+  },
+  {
+    "name": "Salad",
+    "count": 156
+  },
+  {
+    "name": "Sandwich",
+    "count": 36
+  },
+  {
+    "name": "Seafood",
+    "count": 198
+  },
+  {
+    "name": "Steak",
+    "count": 56
+  },
+  {
+    "name": "Sushi",
+    "count": 145
+  },
+  {
+    "name": "Tacos",
+    "count": 36
+  },
+  {
+    "name": "Thai",
+    "count": 29
+  },
+  {
+    "name": "Vegan",
+    "count": 101
+  },
+  {
+    "name": "Vegetarian",
+    "count": 85
+  },
+  {
+    "name": "Wings",
+    "count": 96
+  },
+  {
+    "name": "Soup",
+    "count": 91
+  },
+  {
+    "name": "Takeaway",
+    "count": 22
+  }
+]
